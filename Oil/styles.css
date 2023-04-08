@@ -1,1 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.google.com/specimen/Raleway);
+body {
+    background: #212121;
+    font-size:22px;
+    line-height: 40px;
+    color: #ffffff;
+    word-wrap:break-word !important;
+    font-family: 'Georgia', sans-serif;
+    }
+p{
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 10px;
+    border: 1px solid rgb(211, 248, 0);
+   
+    }
 
+    img {
+        border-radius: 20px;
+        height: 500px;
+        Width:800px;
+        margin-left:500px;
+        margin-top:20px;
+      }
