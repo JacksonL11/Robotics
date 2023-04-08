@@ -85,9 +85,7 @@ p{
 font-size: 14px;
 font-family: 'Raleway', sans-serif;
 margin-top: 10px;
-border-style:solid;
-border-width:5px;
-border:#FFF
+border: 1px solid rgb(255, 255, 255);
 }
 
 #content {
